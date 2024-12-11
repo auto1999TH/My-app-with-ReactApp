@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import './styles/navbar.css'
+import './styles/navbar.css';
 import Navbar from './components/Navbar';
 import Carousel from './pages/Carousel';
 
