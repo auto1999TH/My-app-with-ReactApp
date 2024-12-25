@@ -37,7 +37,7 @@ function Navbar(){
                 </a></li>
                 <li class="nav-item"><a class="nav-link" href="#">หน้าหลัก</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">list</a></li>
-                <li class="nav-item"><img class="img-header" src="img/gfubuld3cs96.png"/></li>
+                <li class="nav-item"><img class="img-header" src="./img/gfubuld3cs96.png"/></li>
                 <li class="nav-item"><a class="nav-link" href="#">Room</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Login</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">
