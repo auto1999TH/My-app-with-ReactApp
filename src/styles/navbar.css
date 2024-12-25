@@ -17,13 +17,14 @@ color: black;
 }
 
 .img-header{
-position: sticky;
-position: relative;
-top: 50px;
+/* position: sticky; */
+position: absolute;
+top: 15px;
 border: 10px solid #c59d11;
 border-radius: 100%;
-width: 180px;
+/* width: 180px; */
 height: 180px;
+left: 45%;
 object-fit: fill;
 /* object-position: 100% 40%; */
 }
