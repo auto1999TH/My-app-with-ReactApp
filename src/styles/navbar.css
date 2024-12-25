@@ -24,7 +24,8 @@ border: 10px solid #c59d11;
 border-radius: 100%;
 /* width: 180px; */
 height: 180px;
-left: 45%;
+/* left: 45%; */
 object-fit: fill;
+align-items: center;
 /* object-position: 100% 40%; */
 }
